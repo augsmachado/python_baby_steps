@@ -1,0 +1,1 @@
+{"id":"20708cfb-e677-45d0-850b-c45cafea6dac","space":33321,"runtime":"python3.9","name":"python_baby_steps","path":"a6ua3m","project":"b0rt58rd","account":"144798365827","region":"us-west-1","deps":["fastapi","deta","python-multipart","uvicorn","requests","bs4"],"envs":null,"public":true,"log_level":"off","cron":""}
